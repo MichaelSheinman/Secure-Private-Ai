@@ -1,2 +1,3 @@
-# Secure-Private-Ai
-Secure-private-Ai-scholarship  
+# Udacity Secure and Private Ai scholarship 
+
+This is a repositery for the recent Udacity Pytorch Secure and Private Ai scholarship 
